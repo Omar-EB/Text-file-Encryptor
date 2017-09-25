@@ -1,5 +1,2 @@
-"# Text-file-Encryptor" 
-# Text-file-Encryptor
-# Text-file-Encryptor
-# Text-file-Encryptor
-"# Text-file-Encryptor" 
+.txt files encryption app
+Author: Omar Elboraey
