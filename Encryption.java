@@ -1,3 +1,6 @@
+//Author : Omar Elboraey
+//Usage of the following code without the consent of Omar Elboraey is prohibited
+
 import java.util.Map ;
 import java.util.HashMap ;
 
@@ -10,7 +13,7 @@ public class Encryption{
 	private static int shift ; // Shifting Integer
 	private static Map <Integer, Character> characterMap ; // Character Maping Dictionnary.
 	private static Map <Character, Integer> positionMap ; // Position Maping Dictionnary
-	private static char[][] vrMatrix ; // Vigenère Square
+	private static char[][] vrMatrix ; // VigenÃ¨re Square
 	private static CipherList<Character> list ; // Character List (A->Z)
 	
 	
@@ -178,7 +181,7 @@ public class Encryption{
 		
 	}
 	
-	// Poly-Alphabetic Encryption : Vigenère Cipher
+	// Poly-Alphabetic Encryption : VigenÃ¨re Cipher
 	public static String viginereCipher(String message, String key){
 		if (message==null || message.equals("") ){
 			throw new UnsupportedOperationException("Nothing to be encrypted.") ;
