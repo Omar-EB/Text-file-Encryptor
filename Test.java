@@ -1,3 +1,6 @@
+//Author : Omar Elboraey
+//Usage of the following code without the consent of Omar Elboraey is prohibited
+
 public class Test{
 	public static void main(String[] args){
 		
