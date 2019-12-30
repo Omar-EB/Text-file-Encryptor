@@ -1,6 +1,3 @@
-//Author : Omar Elboraey
-//Usage of the following code without the consent of Omar Elboraey is prohibited
-
 import java.awt.* ;
 import java.awt.event.* ;
 import javax.swing.* ;
