@@ -1,2 +1,1 @@
-.txt files encryption app
-Author: Omar Elboraey
+.txt files encryption app by Omar Elboraey
